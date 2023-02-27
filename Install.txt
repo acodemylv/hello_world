@@ -1,0 +1,10 @@
+Windows: 
+Java: https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
+Jetbrains toolbox: https://www.jetbrains.com/toolbox-app/
+Git: https://git-scm.com/
+
+MacOS:
+1) Установить brew: https://brew.sh/ (ввести в терминал команду:  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+2) Установить git (ввести в терминал команду: brew install git)
+3) Устанавить Java (ввести в терминал команду:  brew install java11)
+4)  Установить Jetbrains toolbox: https://www.jetbrains.com/toolbox-app/ (внутри так-же установив IntelliJ IDEA Community)
